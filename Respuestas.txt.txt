@@ -1,1 +1,11 @@
 
+Respuestas:
+No se puede ver el archivo tp2_1_2.c porque se encuentra en la rama Opcion_2,
+al usar el comando, "git checkout master" nos movemos a la rama master, esto tambien 
+influye en el repositorio local, lo que hace que el archivo quede oculto para la rama
+master, esto nos permite trabajar sin modificar la rama principal.
+
+se puede ver una linea que indica como se va evolucionando el repositorio.
+
+El cambio que mas resalta es que el archivo tp2_1_2 esta ahora en la rama master,
+y se puede ver el archivo en el repositorio local.
